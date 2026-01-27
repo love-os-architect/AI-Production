@@ -28,7 +28,7 @@ This module defines the newest mathematical models for the "Love Economy," inclu
     * Relationship dynamics simulation.
     * Newest definition of the $Y = L \cos \theta$ formula.
 
-### 2. [love-core](../love-core) ⚙️ (System Kernel)
+### 2. [love-core](https://github.com/love-os-architect/love-core) ⚙️ (System Kernel)
 > **Status:** `Stable` | **Language:** `Shell / System`
 
 The backend infrastructure and low-level system commands.
