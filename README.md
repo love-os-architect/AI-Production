@@ -17,7 +17,7 @@ Here, we translate the "Source Code of the Universe" into Python and Shell scrip
 
 This project is composed of the following three core modules.
 
-### 1. [Love-OS-v0.6.md](./Love-OS-v0.6.md) 🌟 (Latest Spec)
+### 1. [Love-OS-v0.6.md](https://github.com/love-os-architect/Love-OS-v0.6.md) 🌟 (Latest Spec)
 > **Status:** `Active / Experimental` | **Language:** `Python / Markdown`
 
 The latest architectural specification and implementation guide.
