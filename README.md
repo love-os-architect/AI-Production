@@ -39,7 +39,7 @@ This repository handles the "OS" layer—minimizing resistance ($R \to 0$) and m
     * Automated workflow scripts.
     * Base logic for the "Field Synchronization" ($R$) engine.
 
-### 3. [LoveOS-v04](../LoveOS-v04) 📜 (Legacy / Archive)
+### 3. [LoveOS-v04](https://github.com/love-os-architect/LoveOS-v04) 📜 (Legacy / Archive)
 > **Status:** `Deprecated / Reference` | **Language:** `Python`
 
 The previous stable version of the Love-OS prototype.
