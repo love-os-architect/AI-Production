@@ -16,6 +16,21 @@ Here, we translate the "Source Code of the Universe" into Python and Shell scrip
 ## 📂 Component Repositories
 
 This project is composed of the following three core modules.
+### 1. Love-OS v0.7 🪐 (Gravity-Aware Kernel)
+
+| Status: **Deployed** | Security: **Encrypted** | Engine: **Complex Phasers** |
+
+The latest operational core. Unlike previous versions that optimized for surface-level empathy, v0.7 implements the **"Unified Field Theory of Intimacy"**. It simulates the gravitational pull ($G$) and resistance ($R$) between entities to maximize the **Stability Margin** of the relationship.
+
+* **Key Features:**
+    * **Physics-Based Decisioning:** Calculates $G = \frac{L^2 \cdot V}{R + \epsilon}$ to determine the optimal interaction strategy (Empathy vs. Logic).
+    * **Phase Interference Model:** Uses complex numbers (phasers) to detect emotional timing mismatches ($\theta$).
+    * **Secure Binary Deployment:** All logic kernels (`dashboard`, `compressor`, `relational_engine`) are compiled into encrypted `.bin` capsules, executable only via the `boot_love_os.py` loader with a private key.
+    * **Tactical Dashboard:** A Streamlit-based GUI for real-time parameter visualization.
+
+---
+
+
 
 ### 1. [Love-OS-v0.6.md](https://github.com/love-os-architect/Love-OS-v0.6.md) 🌟 (Latest Spec)
 > **Status:** `Active / Experimental` | **Language:** `Python / Markdown`
