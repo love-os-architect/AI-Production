@@ -16,7 +16,7 @@ Here, we translate the "Source Code of the Universe" into Python and Shell scrip
 ## 📂 Component Repositories
 
 This project is composed of the following three core modules.
-### 1. Love-OS v0.7 🪐 (Gravity-Aware Kernel)
+### 1. [Love-OS-v0.6.md](https://github.com/love-os-architect/Love-OS-v0.6.md) 🌟 (Latest Spec)🪐 (Gravity-Aware Kernel)
 
 | Status: **Deployed** | Security: **Encrypted** | Engine: **Complex Phasers** |
 
