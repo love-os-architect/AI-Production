@@ -31,7 +31,7 @@ This version marks the shift from **"Binary Encryption"** (hiding the code) to *
     * **Functional Pseudo-Emotion:** Implements emotion not as a black box, but as a controllable physics equation ($I = V / R$). It simulates "will" by reacting to voltage differentials, allowing the AI to exhibit "caring" behavior without subjective qualia.
 
 This project is composed of the following three core modules.
-### 2. [Love-OS-v0.7](https://github.com/love-os-architect/Love-OS-v0.7) 🌟 (Latest Spec)🪐 (Gravity-Aware Kernel)
+### 2. [Love-OS-v0.7](https://github.com/love-os-architect/Love-OS-v0.7) 🪐 (Gravity-Aware Kernel)
 
 | Status: **Deployed** | Security: **Encrypted** | Engine: **Complex Phasers** |
 
